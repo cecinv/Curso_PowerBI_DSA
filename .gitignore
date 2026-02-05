@@ -1,0 +1,5 @@
+# Ignorar a pasta inteira Cap01_Introducao
+Cap01_Introducao/
+
+# Ignorar apenas a subpasta "Anexos Finais" dentro de Cap02_Primeiros_passos
+Cap02_Primeiros_passos/Anexos Finais/
