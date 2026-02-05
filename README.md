@@ -1,0 +1,2 @@
+# Curso_PowerBI_DSA
+Este repositório reúne os projetos e exercícios desenvolvidos durante o curso Microsoft Power BI Para Business Intelligence e Data Science, da Data Science Academy (DSA).  O objetivo é consolidar, na prática, conceitos fundamentais de Business Intelligence, modelagem de dados e visualização analítica, utilizando o Power BI para transformar dados brutos em insights acionáveis para apoio à tomada de decisão.
