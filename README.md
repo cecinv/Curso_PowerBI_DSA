@@ -49,6 +49,8 @@ Neste laboratório foi desenvolvido um **dashboard de vendas** com foco em respo
 
 Este projeto foca na construção de visualizações claras, uso correto de segmentações e organização do relatório para exploração interativa dos dados.
 
+Link: https://bit.ly/dsa_lab01
+
 ---
 
 ## Capítulo 03 – Modelagem, Relacionamentos e DAX
@@ -73,6 +75,8 @@ Neste laboratório o foco foi aprofundar conceitos de:
    - Margem = Lucro / Valor Venda  
 
 Este módulo enfatiza análise orientada a metas, métricas financeiras e construção de indicadores de performance.
+
+Link: https://bit.ly/dsa_lab2
 
 ---
 
