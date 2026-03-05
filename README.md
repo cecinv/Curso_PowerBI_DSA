@@ -100,6 +100,7 @@ O dashboard foi estruturado em quatro visões analíticas, explorando diferentes
 O projeto explora cruzamentos entre variáveis demográficas, econômicas e comportamentais para identificar padrões de consumo e oportunidades para estratégias de marketing.
 
 Link: https://bit.ly/mini_projeto01
+
 ---
 
 ## Tecnologias Utilizadas
