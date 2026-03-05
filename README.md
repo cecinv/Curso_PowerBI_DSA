@@ -24,6 +24,10 @@ Todos os projetos foram desenvolvidos utilizando **Power BI Desktop**, com foco 
   Projeto focado em modelagem de dados, criação de relacionamentos e desenvolvimento de métricas utilizando DAX.  
   Inclui os datasets utilizados, laboratório prático e documento com as perguntas de negócio e metas definidas.
 
+- `Cap04_Marketing/`  
+  Mini-projeto de análise de dados de marketing com Power BI, explorando perfil de clientes, comportamento de compra e desempenho de campanhas.
+  Inclui pasta para o Mini-Projeto 1, contendo o dataset utilizado e o arquivo do dashboard desenvolvido.
+
 - `README.md`  
   Documento principal do repositório, contendo a descrição dos projetos, objetivos e organização geral do curso.
 
@@ -78,6 +82,24 @@ Este módulo enfatiza análise orientada a metas, métricas financeiras e constr
 
 Link: https://bit.ly/dsa_lab2
 
+---
+
+## Capítulo 04 – Power BI para Análise de Dados - Marketing
+
+Mini-Projeto desenvolvido com foco na análise de perfil de clientes, comportamento de compra e desempenho de campanhas de marketing.
+O dashboard foi estruturado em quatro visões analíticas, explorando diferentes perspectivas da base de dados:
+
+- **Visão Cliente**: perfil dos clientes, análise demográfica considerando escolaridade, estado civil e renda. Traz também informações sobre o volume de compras por canal. Esse painel permite compreender quem são os clientes da empresa e como características socioeconômicas se relacionam com o comportamento de compra.
+
+- **Visão Comportamento**: análise de hábitos de compras dos clientes, relação entre renda, estrutura familiar, escolaridade e volume de gastos. Essa análise ajuda a identificar quais perfis de clientes tendem a gastar mais e quais fatores influenciam o consumo.
+
+- **Visão Campanhas**: análise da performance das campanhas de marketing, com identificação de perfis com maior propensão de resposta às campanhas. Essa visão permite entender quais perfis de clientes respondem melhor às campanhas de marketing.
+
+- **Visão Pontos de Venda**: análise de padrões de compra, comparação de gastos por categoria de produto e mercado. Essa visão fornece uma perspectiva geográfica e estratégica do comportamento de compra.
+
+O projeto explora cruzamentos entre variáveis demográficas, econômicas e comportamentais para identificar padrões de consumo e oportunidades para estratégias de marketing.
+
+Link: https://bit.ly/mini_projeto01
 ---
 
 ## Tecnologias Utilizadas
