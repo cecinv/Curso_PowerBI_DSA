@@ -28,6 +28,10 @@ Todos os projetos foram desenvolvidos utilizando **Power BI Desktop**, com foco 
   Mini-projeto de análise de dados de marketing com Power BI, explorando perfil de clientes, comportamento de compra e desempenho de campanhas.
   Inclui pasta para o Mini-Projeto 1, contendo o dataset utilizado e o arquivo do dashboard desenvolvido.
 
+- `Cap05_Comercial/`  
+  Mini-projeto de análise de dados comerciais e performance de vendas com Power BI, explorando performance de vendas por diferentes categorias, visual de Principais Influenciadores e distribuição geográfica de vendedores.
+  Inclui o Mini-Projeto 2, contendo o dataset utilizado e o arquivo do dashboard desenvolvido.
+
 - `README.md`  
   Documento principal do repositório, contendo a descrição dos projetos, objetivos e organização geral do curso.
 
@@ -100,6 +104,27 @@ O dashboard foi estruturado em quatro visões analíticas, explorando diferentes
 O projeto explora cruzamentos entre variáveis demográficas, econômicas e comportamentais para identificar padrões de consumo e oportunidades para estratégias de marketing.
 
 Link: https://bit.ly/mini_projeto01
+
+---
+
+## Capítulo 05 – Power BI para Análise de Dados Comerciais
+
+Mini-projeto desenvolvido com foco na análise de dados comerciais e performance de vendas.
+
+O dashboard foi estruturado com ênfase em clareza e organização da informação, distribuindo as análises em diferentes painéis para facilitar a leitura e interpretação dos dados.
+
+### Principais análises realizadas:
+
+- Performance de vendas por **segmento, categoria e fabricante**
+- Identificação de fatores que influenciam o valor de venda (Principais Influenciadores)
+- Análise de distribuição de vendas por **loja e categoria**
+- Visualização geográfica de vendedores com maior volume de vendas
+
+O projeto reforça a importância de construir dashboards com foco em **comunicação eficiente**, evitando excesso de informações em uma única visualização e priorizando clareza na apresentação dos dados.
+
+Observação: o visual de "Principais Influenciadores" não é compatível com a funcionalidade "Publicar na Web" do Power BI e, por isso, pode não estar disponível na versão online do dashboard.
+
+Link: https://bit.ly/4uEfdJB
 
 ---
 
