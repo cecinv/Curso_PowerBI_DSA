@@ -32,6 +32,11 @@ Todos os projetos foram desenvolvidos utilizando **Power BI Desktop**, com foco 
   Mini-projeto de análise de dados comerciais e performance de vendas com Power BI, explorando performance de vendas por diferentes categorias, visual de Principais Influenciadores e distribuição geográfica de vendedores.
   Inclui o Mini-Projeto 2, contendo o dataset utilizado e o arquivo do dashboard desenvolvido.
 
+- `Cap06_RH/`  
+  Mini-projeto de análise de dados de recursos humanos com Power BI, explorando algumas características de funcionários de uma empresa fictícia.
+  Inclui o Mini-Projeto 3, contendo o dataset utilizado, arquivo do dashboard desenvolvido e documento com as perguntas de négócio.
+
+
 - `README.md`  
   Documento principal do repositório, contendo a descrição dos projetos, objetivos e organização geral do curso.
 
@@ -125,6 +130,12 @@ O projeto reforça a importância de construir dashboards com foco em **comunica
 Observação: o visual de "Principais Influenciadores" não é compatível com a funcionalidade "Publicar na Web" do Power BI e, por isso, pode não estar disponível na versão online do dashboard.
 
 Link: https://bit.ly/4uEfdJB
+
+---
+
+## Capítulo 06 – Power BI para Análise de Dados de Recursos Humanos
+
+Este capítulo está em andamento e será atualizado em breve com os projetos e análises desenvolvidos.
 
 ---
 
