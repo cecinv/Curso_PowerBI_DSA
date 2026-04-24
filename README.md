@@ -135,7 +135,28 @@ Link: https://bit.ly/4uEfdJB
 
 ## Capítulo 06 – Power BI para Análise de Dados de Recursos Humanos
 
-Este capítulo está em andamento e será atualizado em breve com os projetos e análises desenvolvidos.
+Mini-projeto desenvolvido com foco na análise de dados de Recursos Humanos (RH), explorando indicadores relacionados a perfil dos funcionários, experiência, remuneração e engajamento.
+
+Durante o projeto foram utilizados recursos como criação de medidas, colunas condicionais e organização de métricas para análise de pessoas.
+
+### Perguntas de negócio respondidas:
+
+1. Qual o total de funcionários atualmente na empresa?  
+2. Qual o tempo médio de experiência dos funcionários (em anos)?  
+3. Qual o total e percentual de funcionários por gênero?  
+4. Qual a média salarial mensal?  
+5. Qual o total de funcionários por função?  
+6. Qual o percentual de funcionários disponíveis para fazer hora extra?  
+7. Qual o nível de envolvimento dos funcionários no trabalho (Ruim, Baixo, Médio e Alto)?  
+
+### Análise adicional:
+
+- Total e percentual de funcionários elegíveis para promoção  
+  (considerando 5 anos ou mais desde a última promoção)
+
+Este projeto foca na construção de indicadores de RH e análise de dados organizacionais, permitindo compreender a estrutura da empresa, o perfil dos colaboradores e possíveis ações relacionadas à gestão de pessoas.
+
+Link: https://bit.ly/3QtXm8Q
 
 ---
 
