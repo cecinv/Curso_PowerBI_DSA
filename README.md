@@ -38,7 +38,7 @@ Todos os projetos foram desenvolvidos utilizando **Power BI Desktop**, com foco 
 
 - `Cap07_Logistica/`  
   Mini-projeto de análise de dados de logística com Power BI.
-  Inclui o Mini-Projeto 4, contendo o dataset utilizado, arquivo do dashboard disponibilizado a ser corrigido e arquivo do dashboard desenvolvido com as correções.
+  Inclui o Mini-Projeto 4, contendo o dataset utilizado, arquivo do dashboard disponibilizado a ser corrigido, arquivo do dashboard desenvolvido com as correções e documento com orientações do mini-projeto.
 
 
 - `README.md`  
