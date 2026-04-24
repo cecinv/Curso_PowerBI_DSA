@@ -36,6 +36,10 @@ Todos os projetos foram desenvolvidos utilizando **Power BI Desktop**, com foco 
   Mini-projeto de análise de dados de recursos humanos com Power BI, explorando algumas características de funcionários de uma empresa fictícia.
   Inclui o Mini-Projeto 3, contendo o dataset utilizado, arquivo do dashboard desenvolvido e documento com as perguntas de négócio.
 
+- `Cap07_Logistica/`  
+  Mini-projeto de análise de dados de logística com Power BI.
+  Inclui o Mini-Projeto 4, contendo o dataset utilizado, arquivo do dashboard disponibilizado a ser corrigido e arquivo do dashboard desenvolvido com as correções.
+
 
 - `README.md`  
   Documento principal do repositório, contendo a descrição dos projetos, objetivos e organização geral do curso.
@@ -157,6 +161,12 @@ Durante o projeto foram utilizados recursos como criação de medidas, colunas c
 Este projeto foca na construção de indicadores de RH e análise de dados organizacionais, permitindo compreender a estrutura da empresa, o perfil dos colaboradores e possíveis ações relacionadas à gestão de pessoas.
 
 Link: https://bit.ly/3QtXm8Q
+
+---
+
+## Capítulo 07 – Power BI para Análise de Dados de Logística
+
+Em desenvolvimento.
 
 ---
 
