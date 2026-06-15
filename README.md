@@ -166,7 +166,15 @@ Link: https://bit.ly/3QtXm8Q
 
 ## Capítulo 07 – Power BI para Análise de Dados de Logística
 
-Em desenvolvimento.
+Mini-projeto desenvolvido com foco na análise de indicadores logísticos e na aplicação de boas práticas de visualização de dados.
+
+Diferente dos projetos anteriores, o objetivo deste capítulo foi identificar e corrigir problemas em um dashboard previamente construído, envolvendo tanto inconsistências nas métricas quanto falhas de design e comunicação visual. 
+
+Além da correção de indicadores e métricas e reconstrução do layout com ajuse de visualizações mais adequadas, também foram utilizadas sistema de rating em tabelas e aplicação de filtros utilizando medidas DAX. 
+
+Este projeto reforça a importância da qualidade na comunicação dos dados, demonstrando que um dashboard eficiente depende não apenas de métricas corretas, mas também de uma apresentação clara, organizada e orientada à tomada de decisão.
+
+Link: https://bit.ly/4otLzUT
 
 ---
 
